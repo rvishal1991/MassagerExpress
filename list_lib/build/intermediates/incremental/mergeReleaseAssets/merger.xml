@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/mobilefirst/Dipali_Data/MassagerExpress/list_lib/src/main/assets"/><source path="/home/mobilefirst/Dipali_Data/MassagerExpress/list_lib/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/mobilefirst/Dipali_Data/MassagerExpress/list_lib/src/release/assets"/></dataSet></merger>

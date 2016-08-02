@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/viePage_indicator/build/intermediates/res/merged/debug/color/vpi__light_theme.xml",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/viePage_indicator/src/main/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/viePage_indicator/build/intermediates/res/merged/debug/color/vpi__dark_theme.xml",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/viePage_indicator/src/main/res/color/vpi__dark_theme.xml"
+    }
+]

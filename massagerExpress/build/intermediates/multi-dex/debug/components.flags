@@ -1,0 +1,193 @@
+-injars /home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
+-outjars /home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /home/mobilefirst/Android/Sdk/build-tools/23.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration /home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/multi-dex/debug/components.flags
+
+
+-keep class com.mowares.massagerexpressclient.models.Initialization {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.mowares.massagerexpressclient.GcmBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.GCMNotificationIntentService {
+    <init>();
+}
+
+-keep class io.card.payment.CardIOActivity {
+    <init>();
+}
+
+-keep class io.card.payment.DataEntryActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.UberMyThingActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.UberAddPaymentActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.UberViewPaymentActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.HistoryActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.HelpActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.ProfileActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.OnBoardingActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.VerifyOtp {
+    <init>();
+}
+
+-keep class com.braintreepayments.api.dropin.BraintreePaymentActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PayPalProfileSharingActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.ProfileSharingConsentActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.FuturePaymentInfoActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.LoginActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PayPalTouchActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PaymentActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PaymentMethodActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PaymentConfirmActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.registration {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.ChooseYourNok {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.ListService {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.SplashActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.MapActivity {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.who_is_noking {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.GetReadyToNok {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.CustomerService {
+    <init>();
+}
+
+-keep class com.savelog.CrashActivity {
+    <init>();
+}
+
+-keep class com.mobile.connect.service.PWConnectService {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.Myprofile {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.Termsofservice {
+    <init>();
+}
+
+-keep class com.mowares.massagerexpressclient.Feedback {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PayPalFuturePaymentActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.FuturePaymentConsentActivity {
+    <init>();
+}
+
+-keep class com.paypal.android.sdk.payments.PayPalService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

@@ -1,0 +1,6 @@
+<manifest
+    package="com.soundcloud.android.crop"
+    xmlns:tools="http://schemas.android.com/tools">
+   <!-- tools:overrideLibrary="android.support.v4-->
+    <uses-sdk tools:overrideLibrary="android.support.v4 , android.support.v7.appcompat"></uses-sdk>
+</manifest>

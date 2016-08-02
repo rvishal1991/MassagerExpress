@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/exploded-aar/com.paypal.sdk/paypal-android-sdk/2.13.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="55c5a91bc29333bff61ab76bfe68ee7b3deaa521">
+        <dex dex="/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/pre-dexed/debug/com.paypal.sdk-paypal-android-sdk-2.13.1_13d175534c328ab20385999d2708aca25677f45c.jar" />
+    </item>
+    <item
+        jar="/home/mobilefirst/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/pre-dexed/debug/okio-1.6.0_5d4aa8600a41e82b510b1af4bc1ddb42d83ecf85.jar" />
+    </item>
+    <item
+        jar="/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/exploded-aar/io.card/android-sdk/5.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3fa9adf2238ba0a4160f56d69a3cc5a23f9a98b">
+        <dex dex="/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/pre-dexed/debug/io.card-android-sdk-5.3.0_e826060718f1e2358f3c07c189934ee8898ed732.jar" />
+    </item>
+    <item
+        jar="/home/mobilefirst/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/pre-dexed/debug/okhttp-3.0.1_4bbaf746ef88cb7e06de38398e05d3b7092b4da2.jar" />
+    </item>
+
+</items>

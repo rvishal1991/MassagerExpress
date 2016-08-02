@@ -1,0 +1,694 @@
+[
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/pin_detail_bg.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/pin_detail_bg.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_name.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_name.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/payment.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/payment.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/line.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/line.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__button_black_normal9.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__button_black_normal9.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__button_blue_normal9.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__button_blue_normal9.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/pickup_round.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/pickup_round.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_star.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_star.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/search_ic.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/search_ic.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_edittext.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_edittext.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/cover_image.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/cover_image.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_signin.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/btn_signin.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__creditcard_paypal.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__creditcard_paypal.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/servicr_shadow.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/servicr_shadow.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/star_feedback_blank.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/star_feedback_blank.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/cancel_trip.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/cancel_trip.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/divider.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/divider.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/nav_about.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/nav_about.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/divider_white.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/divider_white.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/history_header_line_green.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/history_header_line_green.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_payment.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ic_payment.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_large.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_large.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/no_plate.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/no_plate.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__creditcard_googlewallet.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__creditcard_googlewallet.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bill_paper.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bill_paper.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/time_popup.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/time_popup.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/button_limo_pressed.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/button_limo_pressed.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_time_mile.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_time_mile.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_header.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/icon_header.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/options.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/options.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/share_menu.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/share_menu.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/distance.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/distance.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/user_actionbar.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/user_actionbar.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__button_blue_pressed9.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__button_blue_pressed9.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/green.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/green.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_menu.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_menu.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/search_icon.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/search_icon.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/get_ready_makeup.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/get_ready_makeup.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/taxi_pickup.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/taxi_pickup.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/cash.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/cash.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/arrow_popup.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/arrow_popup.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/rate_star.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/rate_star.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/mile.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/mile.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/button_limo.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/button_limo.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/info.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/info.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/app_name.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/app_name.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/no_items.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/no_items.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/img_attention.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/img_attention.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/menu.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/menu.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/check_ic.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/check_ic.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_select_service.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_select_service.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_profile.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_profile.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/time.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/time.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/new_pin.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/new_pin.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/screen3mergedimg.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/screen3mergedimg.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/line_divider.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/line_divider.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/half_day_tour_bg.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/half_day_tour_bg.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_bill.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_bill.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/blank_star.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/blank_star.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/nav_payment.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/nav_payment.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/credit_icon.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/credit_icon.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_bill.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/btn_bill.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/pin_driver.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/pin_driver.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_submit.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/btn_submit.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/call.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/call.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__creditcard_alipay.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__creditcard_alipay.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/comment_line.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/comment_line.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/creditcard.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/creditcard.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/source.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/source.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bt_edditext_payment_small.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bt_edditext_payment_small.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_btn_small.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_btn_small.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_route.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_route.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/fill_star.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/fill_star.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_black.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ic_menu_black.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_fb.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/btn_fb.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/nav_paper.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/nav_paper.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/credit.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/credit.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_medium.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_medium.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__creditcard_discover.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__creditcard_discover.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/name_bg.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/name_bg.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_credit.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_credit.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/nav_profile.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/nav_profile.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/selected_service.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/selected_service.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/whale_tour_shadow.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/whale_tour_shadow.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/camera.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/camera.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/default_user.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/default_user.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/clock.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/clock.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/creditcard_selected.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/creditcard_selected.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/nav_support.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/nav_support.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/comman_tour_box.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/comman_tour_box.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_bill_trans.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_bill_trans.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/notification_box_arrived.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/notification_box_arrived.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__nav_history.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__nav_history.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/task_2.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/task_2.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/task_1.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/task_1.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_camera.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/icon_camera.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/nav_share.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/nav_share.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/screen4_mergedimg.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/screen4_mergedimg.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_small.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_small.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/referral_icon.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/referral_icon.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/map_popup.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/map_popup.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/nav_promotion.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/nav_promotion.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/message_icon.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/message_icon.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/source_fill_box.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/source_fill_box.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/promo_code_icon.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/promo_code_icon.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/cash_selected.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/cash_selected.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_feedback.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_feedback.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__nav_logout.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__nav_logout.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/right_ic.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/right_ic.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__creditcard_delegate.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__creditcard_delegate.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__creditcard_uber.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__creditcard_uber.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/credit_bg.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/credit_bg.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/schedule_title.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/schedule_title.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_booking.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_booking.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/or.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/or.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__creditcard_mastercard.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__creditcard_mastercard.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/nav_referral.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/nav_referral.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_rate.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_rate.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/navigation.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/navigation.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/screen2mergedimg.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/screen2mergedimg.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__creditcard_visa.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__creditcard_visa.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/pin_client.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/pin_client.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/fare_info.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/fare_info.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/start_point.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/start_point.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/popup_down_arrow.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/popup_down_arrow.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/close_button.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/close_button.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/add_credit.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/add_credit.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/get_ready_hairstyle.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/get_ready_hairstyle.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/pin_client_org.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/pin_client_org.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/source_line.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/source_line.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/share_ic.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/share_ic.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/red.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/red.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/history_header_line_blue.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/history_header_line_blue.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/un_checkbox.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/un_checkbox.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_actionbar.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_actionbar.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/divider_route.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/divider_route.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/car.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/car.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_name_menu.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_name_menu.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/back.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/back.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_pickup.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/btn_pickup.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_google.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/btn_google.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__button_black_disabled9.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__button_black_disabled9.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/big_popup.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/big_popup.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_sign.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/btn_sign.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_register.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/btn_register.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/history_header_line_white.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/history_header_line_white.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/check_box.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/check_box.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/empty_star.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/empty_star.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/bg_white_process.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/bg_white_process.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/nav_divider_line.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/nav_divider_line.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__nav_payment.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__nav_payment.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/notification_line_blue.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/notification_line_blue.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/loading_1.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/loading_1.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/ub__creditcard_amex.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/ub__creditcard_amex.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/terms_of_service.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/terms_of_service.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/destination_pin.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/destination_pin.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/get_ready_nails.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/get_ready_nails.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/number_plate.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/number_plate.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/taxi_point.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/taxi_point.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/notification_line.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/notification_line.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/date_button.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/date_button.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/arrow.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/arrow.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/tour_menu_icon.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/tour_menu_icon.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/receipt_icon.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/receipt_icon.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/big_divider.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/big_divider.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/loading_2.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/loading_2.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/notification_box.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/notification_box.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/massager.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/massager.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/loading_3.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/loading_3.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/star_feedback.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/star_feedback.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/search_button.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/search_button.png"
+    },
+    {
+        "merged": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/build/intermediates/res/merged/debug/drawable-ldpi-v4/mergedimg.png",
+        "source": "/home/mobilefirst/Dipali_Data/MassagerExpress/massagerExpress/src/main/res/drawable-ldpi/mergedimg.png"
+    }
+]

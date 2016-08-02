@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:id="@+id/fl_image"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivbase"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/close_button" />
+
+        <!--<RelativeLayout
+            android:id="@+id/rl_center"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true">
+
+
+        </RelativeLayout>-->
+
+        <ImageView
+            android:id="@+id/ivcenter"
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/back"
+            android:layout_gravity="center" />
+    </FrameLayout>
+
+</RelativeLayout>

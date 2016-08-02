@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MassagerExpress.iml" filepath="$PROJECT_DIR$/MassagerExpress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crop_Lib/crop_Lib.iml" filepath="$PROJECT_DIR$/crop_Lib/crop_Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcm/gcm.iml" filepath="$PROJECT_DIR$/gcm/gcm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list_lib/list_lib.iml" filepath="$PROJECT_DIR$/list_lib/list_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/massagerExpress/massagerExpress.iml" filepath="$PROJECT_DIR$/massagerExpress/massagerExpress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material/material.iml" filepath="$PROJECT_DIR$/material/material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viePage_indicator/viePage_indicator.iml" filepath="$PROJECT_DIR$/viePage_indicator/viePage_indicator.iml" />
+    </modules>
+  </component>
+</project>
